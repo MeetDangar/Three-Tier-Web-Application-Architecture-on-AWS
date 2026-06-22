@@ -248,24 +248,4 @@ Through this project I gained practical experience with:
 * High Availability Concepts
 * Troubleshooting Production Workloads
 
----
-
-## Future Improvements
-
-* Infrastructure as Code using Terraform
-* CI/CD Pipeline using Jenkins
-* Docker Containerization
-* Amazon EKS Deployment
-* AWS WAF Integration
-* SSL/TLS using ACM
-* Blue-Green Deployments
-
----
-
-## Author
-
-Meet Dangar
-
-DevOps & Cloud Engineering Enthusiast
-
-AWS Cloud Practitioner Certified
+-
