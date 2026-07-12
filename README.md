@@ -8,12 +8,6 @@ The infrastructure is built using AWS networking, compute, database, monitoring,
 
 ---
 
-## Architecture Diagram
-
-![AWS Architecture](image.png)
-
----
-
 ## Architecture Components
 
 ### Web Tier
@@ -248,4 +242,4 @@ Through this project I gained practical experience with:
 * High Availability Concepts
 * Troubleshooting Production Workloads
 
--
+
