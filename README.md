@@ -69,7 +69,6 @@ The infrastructure is built using AWS networking, compute, database, monitoring,
 | CloudWatch   | Monitoring               |
 | SNS          | Notifications            |
 | CloudTrail   | Auditing                 |
-| Route 53     | DNS Management           |
 
 ---
 
